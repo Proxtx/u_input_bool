@@ -1,7 +1,7 @@
 {
   "type": "bool",
   "config": {
-    "checked": {
+    "value": {
       "type": "bool",
       "name": "Checked"
     }

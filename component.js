@@ -6,8 +6,8 @@ export class Component {
   }
 
   async setConfig(config) {
-    if (config.checked) {
-      await this.setValue(config.checked);
+    if (config.value) {
+      await this.setValue(config.value);
     }
   }
 
